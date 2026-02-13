@@ -28,6 +28,23 @@ Apaixonado por aprender novas tecnologias e construir projetos que façam a dife
 
 ## 📂 Projetos em Destaque
 
+## 🚀 Crypto AI Dashboard
+
+Dashboard de análise de criptomoedas com recomendações inteligentes,
+alertas automáticos e simulação de investimentos.
+
+🔗 Repositório:  
+https://github.com/LeonardoPastore/crypto-ai-dashboard
+
+### 🎥 Demonstração do Projeto
+
+📌 Tecnologias:
+- React + Vite
+- TailwindCSS
+- CoinGecko API
+- Regras de IA para score e recomendação
+
+
 
 ## 🌱 Objetivo Profissional
 Atuar como **Desenvolvedor Web / Desenvolvedor de Sistemas**, contribuindo no desenvolvimento, manutenção e evolução de sistemas web, aplicando boas práticas e buscando crescimento contínuo.
